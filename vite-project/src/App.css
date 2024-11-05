@@ -1,0 +1,15 @@
+body{
+    background-color:orangered
+};
+
+.heading{
+    font-size:3rem;
+}
+
+.card{
+    padding: 1rem;
+    min-width: 100px;
+    border: 1p solid black;
+    width: 185px;
+    border-radius: 2 rem;
+}
